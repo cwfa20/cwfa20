@@ -16,6 +16,6 @@ I'm a Backend Developer specialising in Java. I have knowledge in the following 
 - Agile
 - Linux servers
 
-- 🔭 I’m currently working on: **User Management System**
-- 🌱 I’m currently learning: **Java and React**
-- 📫 How to reach me: **https://www.linkedin.com/in/callum-armstrong-168354195/**
+🔭 I’m currently working on: **User Management System**
+🌱 I’m currently learning: **Java and React**
+📫 How to reach me: **https://www.linkedin.com/in/callum-armstrong-168354195/**
