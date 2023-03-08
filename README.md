@@ -2,7 +2,7 @@
 
 I'm a Backend Developer specialising in Java. I have knowledge in the following areas:
 
-###Dev
+**Dev**
 - Java
 - Springboot & REST APIs
 - Microservices
@@ -11,11 +11,11 @@ I'm a Backend Developer specialising in Java. I have knowledge in the following 
 - Unix
 - Python
 
-###DevOps
+**DevOps**
 - Jenkins (admin role group)
 - Agile
 - Linux servers
 
-- 🔭 I’m currently working on **User Management System**
-- 🌱 I’m currently learning **Java and React**
+- 🔭 I’m currently working on: **User Management System**
+- 🌱 I’m currently learning: **Java and React**
 - 📫 How to reach me: **https://www.linkedin.com/in/callum-armstrong-168354195/**
